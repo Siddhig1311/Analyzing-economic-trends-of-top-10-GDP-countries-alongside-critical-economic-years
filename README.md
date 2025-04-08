@@ -80,7 +80,11 @@ These variables enable cross-country analysis and visualization of global econom
    - Use filters and interactive elements for customized analysis.
 
 
+## 🙋‍♀️ Author
 
+**Siddhi Gholap**  
+Master’s in Analytics – Tata Institute of Social Sciences  
+[LinkedIn](https://www.linkedin.com/in/siddhi-gholap)
 
 
 
